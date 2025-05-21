@@ -10,6 +10,6 @@ This is an Android profile screen assignment for an internship.
 - Dark theme
 
 ### 📱 Screenshots:
-![Screenshot](./![Profile](https://github.com/user-attachments/assets/07d2bf34-d7e6-4c9d-b982-67ba481b6aa8)
+![Screenshot](./![image](https://github.com/user-attachments/assets/552be385-acfc-4ea3-92f5-ee8d15d7836c)
 )
 
